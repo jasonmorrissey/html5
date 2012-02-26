@@ -39,7 +39,7 @@
     }
   ],
   "dependencies": {
-    "jsdom": ">= 0.2.0",
+    "jsdom": "https://github.com/jasonmorrissey/jsdom/tarball/master",
     "opts": "~1.2.1",
     "tap": "~0.1.0",
     "bench": "~0.3.3"
